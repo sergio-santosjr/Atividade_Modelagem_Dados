@@ -6,15 +6,15 @@ Este repositório reúne os diagramas UML desenvolvidos para representar a estru
 
 Diagrama de Classes
 
-![Diagrama de Classes](CINEMA/diagrama_classes.png)
+![Diagrama de Classes](CINEMA/Diagrama_de_classe.png)
 
 Diagrama de Atividades
 
-![Diagrama de Atividades](CINEMA/diagrama_atividade.png)
+![Diagrama de Atividades](CINEMA/Diagrama_de_Atividade.png)
 
 Diagrama de Sequência
 
-![Diagrama de Sequência](CINEMA/diagrama_sequencia.png)
+![Diagrama de Sequência](CINEMA/Diagrama_de_Sequencia.png)
 
 Arquivos originais
 
